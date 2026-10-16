@@ -1,0 +1,23 @@
+
+body {
+    background-color: #f1f5f9;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+h2 {
+    color: #2563eb;
+}
+
+.form-control,
+.form-select {
+    padding: 11px;
+}
+
+.btn-primary {
+    padding: 12px;
+    font-weight: bold;
+}
